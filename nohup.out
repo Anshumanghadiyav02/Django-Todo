@@ -1,0 +1,4 @@
+Watching for file changes with StatReloader
+[21/May/2026 15:08:26] "POST /todos/4/update HTTP/1.1" 302 0
+[21/May/2026 15:08:26] "GET /todos/ HTTP/1.1" 200 4136
+[21/May/2026 15:08:27] "GET /static/css/style.css HTTP/1.1" 304 0
